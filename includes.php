@@ -2,7 +2,7 @@
 $pageTitle = "PHP Uppgift ett"; 
 
 //Gör  $user variabeln
-$user=""; 
+$user="Kevin"; 
 
 //text variabeln
 $text = "Bacon ipsum dolor amet short ribs turkey short loin 
@@ -15,5 +15,5 @@ ribeye beef filet mignon ground round pork belly cow pastrami pork chop salami d
 
 
 //date funktionen i form: dd.mm.YYYY
-$date = date('y');
+$date = date('d.m.Y');
 ?>
